@@ -1,0 +1,7 @@
+--extra-index-url https://pypi.adhawkdev.com
+
+pygame==2.1.2
+black==22.8.0
+adhawk
+opencv-contrib-python-headless
+numpy

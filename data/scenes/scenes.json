@@ -1,0 +1,29 @@
+[
+  {
+    "filename": "data\\scenes\\2687205.png",
+    "waldo_location": {
+      "x": 875,
+      "y": 245,
+      "width": 75,
+      "height": 75
+    }
+  },
+  {
+    "filename": "data\\scenes\\2687206.jpg",
+    "waldo_location": {
+      "x": 200,
+      "y": 280,
+      "width": 75,
+      "height": 75
+    }
+  },
+  {
+    "filename": "data\\scenes\\2687207.jpg",
+    "waldo_location": {
+      "x": 850,
+      "y": 230,
+      "width": 75,
+      "height": 75
+    }
+  }
+]
